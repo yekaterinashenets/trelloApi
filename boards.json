@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "id": 1563198254312,
+            "createdAt": "2019-07-15T13:42:30.598Z",
+            "updatedAt": "2019-07-15T13:42:30.598Z",
+            "name": "First board",
+            "color": "red",
+            "description": "It's the first board ever"
+        },
+        {
+            "id": 1563198254313,
+            "createdAt": "2019-07-15T13:42:30.598Z",
+            "updatedAt": "2019-07-15T13:42:30.598Z",
+            "name": "Second board",
+            "color": "blue",
+            "description": "It's the second board ever"
+        },
+        {
+            "id": 1563198254314,
+            "createdAt": "2019-07-15T13:42:30.598Z",
+            "updatedAt": "2019-07-15T13:42:30.598Z",
+            "name": "Third board",
+            "color": "green",
+            "description": "It's the third board ever"
+        },
+        {
+            "id": 1563198254316,
+            "createdAt": "2019-07-15T13:44:14.316Z",
+            "updatedAt": "2019-07-15T13:44:14.316Z",
+            "name": "Lalalalf",
+            "color": "pinkf",
+            "description": "hello worldf"
+        },
+        {
+            "id": 1563198632717,
+            "createdAt": "2019-07-15T13:50:32.717Z",
+            "updatedAt": "2019-07-15T13:50:32.717Z",
+            "name": "babababbabaa",
+            "color": "yellow",
+            "description": ""
+        },
+        {
+            "id": 1563198710969,
+            "createdAt": "2019-07-15T13:51:50.969Z",
+            "updatedAt": "2019-07-15T13:51:50.969Z",
+            "name": "babababbabaa",
+            "color": "yellow"
+        },
+        {
+            "id": 1563199226477,
+            "createdAt": "2019-07-15T14:00:26.477Z",
+            "updatedAt": "2019-07-15T14:20:28.022Z",
+            "name": "fffffffffff",
+            "color": "yellow",
+            "description": null
+        }
+    ]
+}
